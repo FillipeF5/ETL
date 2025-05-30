@@ -1,6 +1,9 @@
 # Data
 /data/
 
+#Test private
+/queries/test1
+
 # Mac OS-specific storage files
 .DS_Store
 
